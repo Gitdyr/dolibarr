@@ -56,7 +56,7 @@ AucuneLigne=There is no expense report declared yet
 ModePaiement=Payment mode
 
 VALIDATOR=User responsible for approval
-VALIDOR=Approved by
+VALIDOR=Godkendt af
 AUTHOR=Recorded by
 AUTHORPAIEMENT=Paid by
 REFUSEUR=Denied by
