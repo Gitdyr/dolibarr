@@ -2,7 +2,7 @@
 
 Margin=Margin
 Margins=Margins
-TotalMargin=Total Margin
+TotalMargin=Margin i alt
 MarginOnProducts=Margin / Products
 MarginOnServices=Margin / Services
 MarginRate=Margin rate
@@ -25,7 +25,7 @@ ForceBuyingPriceIfNullDetails=If buying/cost price not defined, and this option 
 MARGIN_METHODE_FOR_DISCOUNT=Margin method for global discounts
 UseDiscountAsProduct=As a product
 UseDiscountAsService=As a service
-UseDiscountOnTotal=On subtotal
+UseDiscountOnTotal=Subtotal
 MARGIN_METHODE_FOR_DISCOUNT_DETAILS=Defines if a global discount is treated as a product, a service, or only on subtotal for margin calculation.
 MARGIN_TYPE=Buying/Cost price suggested by default for margin calculation
 MargeType1=Margin on Best supplier price

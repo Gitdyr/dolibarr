@@ -91,7 +91,7 @@ WriteBookKeeping=Bogfør transaktioner i hovedbogen
 Bookkeeping=Hovedbog
 AccountBalance=Kontobalance
 ObjectsRef=Source object ref
-CAHTF=Total purchase supplier before tax
+CAHTF=Leverandørkøb i alt ekskl. moms
 TotalExpenseReport=Total expense report
 InvoiceLines=Fakturalinjer, der skal bindes
 InvoiceLinesDone=Bound lines of invoices
@@ -128,7 +128,7 @@ ACCOUNTING_SELL_JOURNAL=Salgskladde
 ACCOUNTING_PURCHASE_JOURNAL=Indkøbskladde
 ACCOUNTING_MISCELLANEOUS_JOURNAL=Diversekladde
 ACCOUNTING_EXPENSEREPORT_JOURNAL=Udgiftskladde
-ACCOUNTING_SOCIAL_JOURNAL=Socialkladde
+ACCOUNTING_SOCIAL_JOURNAL=Kladde for skat/afgift
 
 ACCOUNTING_ACCOUNT_TRANSFER_CASH=Accounting account of transfer
 ACCOUNTING_ACCOUNT_SUSPENSE=Accounting account of wait
@@ -160,7 +160,7 @@ ConfirmDeleteMvtPartial=Dette vil slette de valgte posteringer i hovedbogen
 DelBookKeeping=Slet indhold i hovedbogen
 FinanceJournal=Finanskladde
 ExpenseReportsJournal=Udgiftskladder
-DescFinanceJournal=Finance journal including all the types of payments by bank account
+DescFinanceJournal=Regnskabskladde inkl. alle betalingstyper med bankkonto
 DescJournalOnlyBindedVisible=Det er en oversigt over poster, der er bundet til regnskabskontoen og som kan bogføres
 VATAccountNotDefined=Account for VAT not defined
 ThirdpartyAccountNotDefined=Account for third party not defined
@@ -183,7 +183,7 @@ UnknownAccountForThirdpartyBlocking=Unknown third party account. Blocking error
 Pcgtype=Kontoens klasse
 Pcgsubtype=Subclass of account
 
-TotalVente=Total turnover before tax
+TotalVente=Samlet omsætning ekskl. moms
 TotalMarge=Samlet salgsforskel
 
 DescVentilCustomer=Consult here the list of customer invoice lines bound (or not) to a product accounting account

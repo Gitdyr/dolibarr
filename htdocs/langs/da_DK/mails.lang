@@ -117,7 +117,7 @@ TagMailtoEmail=Recipient EMail (including html "mailto:" link)
 NoEmailSentBadSenderOrRecipientEmail=No email sent. Bad sender or recipient email. Verify user profile.
 # Module Notifications
 Notifications=Adviséringer
-NoNotificationsWillBeSent=Ingen e-mail-meddelelser er planlagt for denne begivenhed, og selskabet
+NoNotificationsWillBeSent=Ingen e-mail-meddelelser er planlagt for denne begivenhed, og firmaet
 ANotificationsWillBeSent=1 anmeldelse vil blive sendt via email
 SomeNotificationsWillBeSent=%s meddelelser vil blive sendt via email
 AddNewNotification=Activate a new email notification target
