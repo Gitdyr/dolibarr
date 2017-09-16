@@ -27,12 +27,13 @@
 -- de l'install et tous les sigles '--' sont supprimés.
 --
 
-INSERT INTO llx_accounting_journal (code, label, nature, active) VALUES ('VT', 'Journal des ventes', 2, 1);
-INSERT INTO llx_accounting_journal (code, label, nature, active) VALUES ('AC', 'Journal des achats', 3, 1);
-INSERT INTO llx_accounting_journal (code, label, nature, active) VALUES ('BQ', 'Journal de banque', 4, 1);
-INSERT INTO llx_accounting_journal (code, label, nature, active) VALUES ('OD', 'Journal des opérations diverses', 1, 1);
-INSERT INTO llx_accounting_journal (code, label, nature, active) VALUES ('AN', 'Journal des à-nouveaux', 9, 1);
-INSERT INTO llx_accounting_journal (code, label, nature, active) VALUES ('ER', 'Journal des notes de frais', 5, 1);
+INSERT INTO llx_accounting_journal (code, label, nature, active) VALUES ('SA', 'Salgskladder', 2, 1);
+INSERT INTO llx_accounting_journal (code, label, nature, active) VALUES ('KØ', 'Købskladder', 3, 1);
+INSERT INTO llx_accounting_journal (code, label, nature, active) VALUES ('BA', 'Bankkladder', 4, 1);
+INSERT INTO llx_accounting_journal (code, label, nature, active) VALUES ('DI', 'Diversekladder', 1, 1);
+INSERT INTO llx_accounting_journal (code, label, nature, active) VALUES ('HN', 'Har-nyt-kladder', 9, 1);
+INSERT INTO llx_accounting_journal (code, label, nature, active) VALUES ('UD', 'Udgiftskladder', 5, 1);
+
 --
 -- Descriptif des plans comptables FR PCG99-ABREGE
 --
