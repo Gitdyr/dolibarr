@@ -2,11 +2,11 @@
 MenuFinancial=Finans
 TaxModuleSetupToModifyRules=Go to <a href="%s">Taxes module setup</a> to modify rules for calculation
 TaxModuleSetupToModifyRulesLT=Go to <a href="%s">Company setup</a> to modify rules for calculation
-OptionMode=Mulighed for regnskab
-OptionModeTrue=Mulighed Input-Output
-OptionModeVirtual=Mulighed Credits-automatiske
-OptionModeTrueDesc=I denne sammenhæng, omsætningen er beregnet over betalinger (dato for betalinger). \\ nDen gyldigheden af tallene sikres kun, hvis bogføring er granskes gennem input / output på konti via fakturaer.
-OptionModeVirtualDesc=I denne sammenhæng, omsætningen er beregnet over fakturaer (datoen for bekræftelsen). Når disse fakturaer skyldes, uanset om de er blevet betalt eller ej, de er anført i omsætning output.
+OptionMode=Indstilling for regnskab
+OptionModeTrue=Indtægter/udgifter
+OptionModeVirtual=Kreditor/debitor
+OptionModeTrueDesc=Ved dette valg beregnes omsætningen ud fra betalingerne (betalingsdato). Gyldigheden af tallene sikres kun, hvis bogføringen sker omhyggeligt gennem indtægter/udgifter via fakturaer.
+OptionModeVirtualDesc=Ved dette valg beregnes omsætningen ud fra fakturaerne (bekræftelsesdato). Når fakturaerne er bekræftet, uanset om de er betalt eller ej, vil de indgå i beregningen af omsætningen.
 FeatureIsSupportedInInOutModeOnly=Funktionen kun tilgængelig i CREDITS-FORDRINGER regnskabspool mode (Se Regnskabsmæssig modul konfiguration)
 VATReportBuildWithOptionDefinedInModule=Beløb, der vises her, er baseret på de regler, der er defineret i opsætningen under Moms.
 LTReportBuildWithOptionDefinedInModule=Beløb, der vises her, er baseret på de regler, der er defineret i opsætningen under Firma.
@@ -149,7 +149,7 @@ VATReportByQuartersInDueDebtMode=Report by rate of the VAT collected and paid
 LT1ReportByQuartersInDueDebtMode=Report by RE rate
 LT2ReportByQuartersInDueDebtMode=Report by IRPF rate
 SeeVATReportInInputOutputMode=Voir le <b>rapport %sTVA encaissement %s</b> pour mode de calcul standard
-SeeVATReportInDueDebtMode=Voir le <b>rapport %sTVA sur dbit %s</b> pour mode de calcul avec mulighed sur les dbits
+SeeVATReportInDueDebtMode=Se rapporten for<b>%sMoms for debitorer%s</b> for vælge at se udregning med moms for debitorer
 RulesVATInServices=- For services, the report includes the VAT regulations actually received or issued on the basis of the date of payment.
 RulesVATInProducts=- For materielle goder, herunder det de momsfakturaer på grundlag af fakturadatoen.
 RulesVATDueServices=- For tjenesteydelser, indeholder rapporten momsfakturaer skyldes, betalte eller ej, er baseret på fakturadatoen.
@@ -172,7 +172,7 @@ InvoiceRef=Faktura ref.
 CodeNotDef=Ikke defineret
 WarningDepositsNotIncluded=Fakturaer med afdragsordning er ikke inkluderet i denne version af regnskabsmodulet.
 DatePaymentTermCantBeLowerThanObjectDate=Payment term date can't be lower than object date.
-Pcg_version=Chart of accounts models
+Pcg_version=Kontoplantype
 Pcg_type=Pcg type
 Pcg_subtype=Pcg subtype
 InvoiceLinesToDispatch=Invoice lines to dispatch
