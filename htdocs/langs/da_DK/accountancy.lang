@@ -230,7 +230,7 @@ ErrorAccountingJournalIsAlreadyUse=Denne kladde er allerede i brug
 
 ## Export
 ExportDraftJournal=Eksporter udkast til kladde
-Modelcsv=Eksportmodul
+Modelcsv=Eksportmodel
 OptionsDeactivatedForThisExportModel=For this export model, options are deactivated
 Selectmodelcsv=Vælg en eksportmodel
 Modelcsv_normal=Klassisk eksport
@@ -238,7 +238,7 @@ Modelcsv_CEGID=Eksporter med CEGID Ekspert-kompatibilitet
 Modelcsv_COALA=Eksporter til Sage Coala
 Modelcsv_bob50=Eksporter til Sage BOB 50
 Modelcsv_ciel=Eksporter til Sage Ciel Compta eller Compta Evolution
-Modelcsv_quadratus=Eksport til Quadratus QuadraCompta
+Modelcsv_quadratus=Eksporter til Quadratus QuadraCompta
 Modelcsv_ebp=Eksporter til EBP
 Modelcsv_cogilog=Ekpsporter til Cogilog
 Modelcsv_agiris=Eksporter til Agiris (Test)
