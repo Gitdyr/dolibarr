@@ -23,7 +23,7 @@ SearchAProposal=Søg tilbud
 NoProposal=Ingen tilbud
 ProposalsStatistics=Statistik for tilbud
 NumberOfProposalsByMonth=Antal af måneden
-AmountOfProposalsByMonthHT=Beløb af måneden (efter skat)
+AmountOfProposalsByMonthHT=Beløb af måneden (ekskl. moms)
 NbOfProposals=Antal tilbud
 ShowPropal=Vis tilbud
 PropalsDraft=Drafts
@@ -64,6 +64,7 @@ ProposalLine=Tilbudslinje
 AvailabilityPeriod=Tilgængelighed forsinkelse
 SetAvailability=Indstil tilgængelighed forsinkelse
 AfterOrder=efter at
+OtherProposals=Andre forslag
 ##### Availability #####
 AvailabilityTypeAV_NOW=Øjeblikkelig
 AvailabilityTypeAV_1W=En uge

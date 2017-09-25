@@ -44,7 +44,7 @@ LineDescription=Beskrivelse af linje
 LineUnitPrice=Enhedspris på linje
 LineVATRate=Momssats på linje
 LineQty=Mængde for linje
-LineTotalHT=Beløb efter skat for linje
+LineTotalHT=Beløb ekskl. moms for linje
 LineTotalTTC=Beløb med fradrag af skat for linje
 LineTotalVAT=Momsbeløb for linje
 TypeOfLineServiceOrProduct=Strækningstype (0= produkt, 1= tjeneste)
